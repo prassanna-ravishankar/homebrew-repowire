@@ -11,7 +11,7 @@ repowire setup
 ```
 
 The formula is published from Repowire's checksum-pinned native release
-archives. It will become available with the first native release, `v0.18.0`.
+archives.
 
 You can also tap the repository explicitly:
 
