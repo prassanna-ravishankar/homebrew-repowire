@@ -6,23 +6,23 @@ class Repowire < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.1/repowire_0.20.1_darwin_arm64.tar.gz"
-      sha256 "b4e0754293d88519afddcdf6c01761064c510a4808e7b49b9a2d72b1febb2c16"
+      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.2/repowire_0.20.2_darwin_arm64.tar.gz"
+      sha256 "2029853ef228c341d6ba11735ee427a99e3d2cf6888381116fb98837ac7a14cb"
     end
     on_intel do
-      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.1/repowire_0.20.1_darwin_amd64.tar.gz"
-      sha256 "8c1f2a130ac294135daecfcd5350ab41aa0e64b18a22bb8c8301b226111a371b"
+      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.2/repowire_0.20.2_darwin_amd64.tar.gz"
+      sha256 "641366610457e8acdb8c7ccf7d46d7bc0ea6897426d189b10db85382e9f0217c"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.1/repowire_0.20.1_linux_arm64.tar.gz"
-      sha256 "c5ed312129ca6331e53c28c3a5386e55aa59b3564930c0c69db41dae5da63b22"
+      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.2/repowire_0.20.2_linux_arm64.tar.gz"
+      sha256 "4ad85bb6f0e0650814da2f4596ec58434b1adaa668dd544296ee66a4bd8ec377"
     end
     on_intel do
-      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.1/repowire_0.20.1_linux_amd64.tar.gz"
-      sha256 "e6f4ec73222c92713610eeac0c1a6d1b6f976b6577d52bb47fcb6d4a45aa0978"
+      url "https://github.com/prassanna-ravishankar/repowire/releases/download/v0.20.2/repowire_0.20.2_linux_amd64.tar.gz"
+      sha256 "727ed963104890f6d0c51b8fbf4f10c905a376f735bb725be107d70234d95a98"
     end
   end
 
